@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+Wenex is the skeleton of a general-purpose platform with a microservice design that brings new technologies to improve your enterprise and team to be fast and efficient as possible.
 
-**Here are some ideas to get you started:**
+In Other words, Wenex is an application factory developed with `TypeScript` and `NestJS`.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Premium
+
+Wenex has some private repositories named with the suffix `premium` that has more skeleton of a broad range of needs in communication, online shopping, finances, etc.
