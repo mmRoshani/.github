@@ -6,4 +6,4 @@ In Other words, Wenex is an application factory developed with `TypeScript` and 
 
 ### Premium
 
-Wenex has some private repositories named with the suffix `premium` that has more skeleton of a broad range of needs in communication, online shopping, finances, iot, etc.
+Wenex has some private repositories named with the suffix `premium` that has more skeleton of a broad range of needs in communication, online shopping, finances and iot, etc.
