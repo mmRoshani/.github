@@ -9,6 +9,6 @@ __Features__:
 + RESTful, GraphQL, and gRPC
 + Observability and Monitoring
 
-### [Premium](https://github.com/wenex-org/platform-premium)
+### [Premium](https://github.com/wenex-org/premium)
 
 Wenex has some private repositories named with the suffix `premium` that has more skeleton of a broad range of needs in communication, online shopping, finances and iot, etc.
