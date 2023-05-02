@@ -8,6 +8,7 @@ __Features__:
 + Object Storage and NoSQL
 + RESTful, GraphQL, and gRPC
 + Observability and Monitoring
++ ...
 
 ### [Premium](https://github.com/wenex-org/premium)
 
